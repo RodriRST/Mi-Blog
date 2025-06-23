@@ -138,9 +138,9 @@ footer {
   flex-wrap: wrap; 
 }
 
-.contenedor img {
+.contenedorimg {
   width: 100%;
-  max-width: 600px;
+  max-width: 700px;
   height: auto;
   display: block;
   flex: 1 1 300px;  
@@ -156,7 +156,44 @@ footer {
   letter-spacing: 2px;
   text-transform: uppercase;
 }
+.descripcion2 {
 
+   max-width: 1000px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  font-size: 14px;
+  color: #ccc;
+  text-align: left;
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
 
+.about-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  line-height: 1.6;
+  font-size: 18px;
+}
+.about-titulo {
+  font-size: 68px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 10px;
+  color: #ffffff;
+  
+  padding-bottom: 5px;
+}
+.collections {
+  max-width: 400px  ;
+   width: 100%;
+  height: 300px; 
+  object-fit: cover;
+  object-position: center;
+  border-radius: 10px;
+  margin: 3%;
+ 
 
+}
 
